@@ -15,16 +15,15 @@
 <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Di-Hemo">
+<a href="https://github.com/Di-hemo">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=Di-Hemo&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Di-hemo&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
-
 # 👨‍💻 About Me
 
 <table align="center" width="100%">
@@ -85,8 +84,8 @@
 
 | Category | Details |
 |-----------|----------|
-| Stack | Networking, SD-WAN, GNS3/Cisco |
-| Status | In Progress (Graduation Project) |
+| Stack | Networking, SD-WAN |
+| Status | In Progress |
 | Goal | Intelligent Path Selection |
 | Impact | Better Performance & Reliability |
 
@@ -104,42 +103,38 @@ Designing and implementing a hybrid SD-WAN architecture with intelligent path se
 | Features | Movie Booking & Seat Selection |
 
 Repository:
-https://github.com/Di-Hemo/Cenima_Reservation_System
+
+https://github.com/abrahemborwas-del/Cenima_Reservation_System
 
 </details>
 
 ---
 
-# 💼 Experience
+# 📜 Certifications
 
-### Customer Service & Shop Operations
-**Multiple Local Businesses — Benghazi**
-
-- Customer relations and support.
-- Daily operations management.
-- Team collaboration and communication.
-
-`Customer Service` `Communication` `Teamwork`
+![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
+![](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge)
 
 ---
 
-# 🏆 Achievements & Certifications
+# 💻 Coding Profiles
 
-- **Graduation Project:** Hybrid SD-WAN with Intelligent Path Selection.
-- **Cisco:** Networking Fundamentals & Routing/Switching knowledge.
-- **Linux:** System Administration & Shell scripting basics.
+<a href="https://github.com/Di-hemo">
+<img src="https://img.shields.io/badge/GitHub-Di-hemo-181717?style=for-the-badge&logo=github"/>
+</a>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di-Hemo&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Hemo&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di-hemo&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-hemo&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Di-Hemo&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Di-hemo&theme=tokyonight"/>
 </p>
 
 ---
@@ -147,7 +142,7 @@ https://github.com/Di-Hemo/Cenima_Reservation_System
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Di-Hemo&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Di-hemo&theme=tokyo-night"/>
 </p>
 
 ---
@@ -158,21 +153,22 @@ https://github.com/Di-Hemo/Cenima_Reservation_System
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
+---
+
+# 📫 Connect With Me
+
+📧 Email: **abrahemborwas@gmail.com**
+
+💻 GitHub: **https://github.com/Di-hemo**
+
+📍 Location: **Benghazi, Libya**
 
 ---
 
-# 🎯 Current Focus
+<div align="center">
 
-```yaml
-Learning:
-  - Advanced Cisco Routing & Switching
-  - Linux Enterprise Administration
-  - Cloud Infrastructure
+### "Continuous learning and practical experience are the keys to becoming a great engineer."
 
-Building:
-  - Hybrid SD-WAN Graduation Project
-  - Network Automation Scripts (Python)
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6a11cb,100:2575fc"/>
 
-Open To:
-  - Internship Opportunities
-  - Networking & Development Collaborations
+</div>
