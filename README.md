@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Di~hemo">
+<a href="https://github.com/Di-Hemo">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=Di~hemo&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Di-Hemo&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -27,50 +27,54 @@
 
 # 👨‍💻 About Me
 
-```yaml
-Name: Almotaz Bellah Borwees
-Education: B.Sc. Networks & Telecommunications
-University: University of Benghazi
-Location: Benghazi, Libya
-Status: Open for Internship Opportunities
-Interests:
-  - Networking
-  - Linux
-  - Web Development
-  - SD-WAN
-  - Cloud Computing
-```
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Profile Info</h3>
+      <ul>
+        <li><b>👤 Name:</b> Almotaz Bellah Borwees</li>
+        <li><b>🎓 Education:</b> B.Sc. Networks & Telecommunications</li>
+        <li><b>🏛️ University:</b> University of Benghazi</li>
+        <li><b>📍 Location:</b> Benghazi, Libya</li>
+        <li><b>💼 Status:</b> Open for Internship Opportunities</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Tech Interests</h3>
+      <ul>
+        <li><b>🌐 Networking:</b> Routing, Switching & Infrastructure</li>
+        <li><b>🐧 OS Linux:</b> Systems Administration & Scripting</li>
+        <li><b>🐍 Web Dev:</b> Backend Development with Python & Flask</li>
+        <li><b>🤖 Automation:</b> SD-WAN & Network Programmability</li>
+        <li><b>☁️ Cloud:</b> Cloud Computing Infrastructure</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-I am a **Networks & Telecommunications student** passionate about networking technologies, Linux systems, and web development. I enjoy building practical projects and continuously improving my technical skills through academic and personal projects.
+<p align="center">
+  <i>I am a <b>Networks & Telecommunications student</b> passionate about networking technologies, Linux systems, and web development. I enjoy building practical projects and continuously improving my technical skills through academic and personal projects.</i>
+</p>
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,flask,html,css"/>
 </p>
 
-### Backend & Tools
+### Tools & OS
 <p>
-<img src="https://skillicons.dev/icons?i=flask,git,github,linux"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github"/>
 </p>
 
-### Networking
-- Networking Fundamentals
-- Routing & Switching
-- Computer Hardware & Operating Systems
-
----
-
-# 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|----------|
-| AI Fundamentals | Beginner | Exploring AI concepts and applications |
-| Automation | Beginner | Python scripting and problem solving |
-| Data Processing | Beginner | Building foundational programming skills |
+### Networking Expertise
+- Networking Fundamentals (OSI Model, TCP/IP)
+- Routing & Switching 
+- SD-WAN Architecture & Smart Path Selection
+- Computer Hardware & OS Administration
 
 ---
 
@@ -81,8 +85,8 @@ I am a **Networks & Telecommunications student** passionate about networking tec
 
 | Category | Details |
 |-----------|----------|
-| Stack | Networking, SD-WAN |
-| Status | In Progress |
+| Stack | Networking, SD-WAN, GNS3/Cisco |
+| Status | In Progress (Graduation Project) |
 | Goal | Intelligent Path Selection |
 | Impact | Better Performance & Reliability |
 
@@ -100,8 +104,7 @@ Designing and implementing a hybrid SD-WAN architecture with intelligent path se
 | Features | Movie Booking & Seat Selection |
 
 Repository:
-
-https://github.com/abrahemborwas-del/Cenima_Reservation_System
+https://github.com/Di-Hemo/Cenima_Reservation_System
 
 </details>
 
@@ -114,56 +117,29 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 
 - Customer relations and support.
 - Daily operations management.
-- Team collaboration.
-- Time management and communication.
+- Team collaboration and communication.
 
 `Customer Service` `Communication` `Teamwork`
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
-| Recognition | Details |
-|-------------|----------|
-| Graduation Project | Hybrid SD-WAN with Intelligent Path Selection |
-| Continuous Learning | Networking and Web Development |
-| Teamwork | Experience in customer service and retail operations |
-
----
-
-# 📜 Certifications
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
-![](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge)
-
----
-
-# 💻 Coding Profiles
-
-<a href="https://github.com/Di~hemo">
-<img src="https://img.shields.io/badge/GitHub-Di~hemo-181717?style=for-the-badge&logo=github"/>
-</a>
+- **Graduation Project:** Hybrid SD-WAN with Intelligent Path Selection.
+- **Cisco:** Networking Fundamentals & Routing/Switching knowledge.
+- **Linux:** System Administration & Shell scripting basics.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di~hemo&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di~hemo&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di-Hemo&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di-Hemo&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Di~hemo&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Di~hemo&theme=algolia&no-frame=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Di-Hemo&theme=tokyonight"/>
 </p>
 
 ---
@@ -171,7 +147,7 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Di~hemo&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Di-Hemo&theme=tokyo-night"/>
 </p>
 
 ---
@@ -182,45 +158,21 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
+
 ---
 
 # 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Advanced Networking
-  - Linux Administration
-  - Cloud Computing
+  - Advanced Cisco Routing & Switching
+  - Linux Enterprise Administration
+  - Cloud Infrastructure
 
 Building:
-  - Hybrid SD-WAN Project
-  - Web Applications
-
-Exploring:
-  - Cybersecurity
-  - Automation
+  - Hybrid SD-WAN Graduation Project
+  - Network Automation Scripts (Python)
 
 Open To:
   - Internship Opportunities
-  - Collaboration
-```
-
----
-
-# 📫 Connect With Me
-
-📧 Email: **abrahemborwas@gmail.com**
-
-💻 GitHub: **https://github.com/Di-Hemo**
-
-📍 Location: **Benghazi, Libya**
-
----
-
-<div align="center">
-
-### "Continuous learning and practical experience are the keys to becoming a great engineer."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6a11cb,100:2575fc"/>
-
-</div>
+  - Networking & Development Collaborations
