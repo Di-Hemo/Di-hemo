@@ -23,7 +23,10 @@
 
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
+
 # 👨‍💻 About Me
 
 <table align="center" width="100%">
@@ -55,7 +58,9 @@
   <i>I am a <b>Networks & Telecommunications student</b> passionate about networking technologies, Linux systems, and web development. I enjoy building practical projects and continuously improving my technical skills through academic and personal projects.</i>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 🚀 Tech Stack
 
@@ -75,7 +80,9 @@
 - SD-WAN Architecture & Smart Path Selection
 - Computer Hardware & OS Administration
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 📌 Featured Projects
 
@@ -108,7 +115,9 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 
 </details>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 📜 Certifications
 
@@ -116,15 +125,19 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 ![](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge)
 ![](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 💻 Coding Profiles
 
 <a href="https://github.com/Di-hemo">
-<img src="https://img.shields.io/badge/GitHub-Di-hemo-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Di--hemo-181717?style=for-the-badge&logo=github"/>
 </a>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 📊 GitHub Analytics
 
@@ -137,7 +150,9 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Di-hemo&theme=tokyonight"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 📈 Contribution Activity
 
@@ -145,7 +160,9 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Di-hemo&theme=tokyo-night"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 🐍 Contribution Snake
 
@@ -153,7 +170,9 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 # 📫 Connect With Me
 
@@ -163,7 +182,9 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 
 📍 Location: **Benghazi, Libya**
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&bgColor=111111&height=2&color=0:6a11cb,100:2575fc" width="100%"/>
+</p>
 
 <div align="center">
 
