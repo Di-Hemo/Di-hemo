@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/abrahemborwas-del">
+<a href="https://github.com/Di~hemo">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=abrahemborwas-del&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Di~hemo&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -141,8 +141,8 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 
 # 💻 Coding Profiles
 
-<a href="https://github.com/abrahemborwas-del">
-<img src="https://img.shields.io/badge/GitHub-abrahemborwas--del-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Di~hemo">
+<img src="https://img.shields.io/badge/GitHub-Di~hemo-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
@@ -150,12 +150,12 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abrahemborwas-del&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrahemborwas-del&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Di~hemo&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di~hemo&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abrahemborwas-del&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Di~hemo&theme=tokyonight"/>
 </p>
 
 ---
@@ -163,7 +163,7 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abrahemborwas-del&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Di~hemo&theme=algolia&no-frame=true"/>
 </p>
 
 ---
@@ -171,7 +171,7 @@ https://github.com/abrahemborwas-del/Cenima_Reservation_System
 # 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abrahemborwas-del&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Di~hemo&theme=tokyo-night"/>
 </p>
 
 ---
@@ -211,7 +211,7 @@ Open To:
 
 📧 Email: **abrahemborwas@gmail.com**
 
-💻 GitHub: **https://github.com/abrahemborwas-del**
+💻 GitHub: **https://github.com/Di-Hemo**
 
 📍 Location: **Benghazi, Libya**
 
